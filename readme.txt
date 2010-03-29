@@ -24,17 +24,17 @@ Creates real time world clocks on your posts or pages using simple shortcode. Th
 
 * Put the following shortcode anywhere on your post or page to create a GMT/UTC clock:
 
-    `[worldtime]`
+    `[worldtime]`  
 
 	
 * Use the 'places' parameter to specify the clock's time zone:
 
-    `[worldtime places="Paris"]`
+    `[worldtime places="Paris"]`  
 
 	
 * List several places sperated by a comma. This will create multiple world clocks in a stack (currently maximum 6)
 
-    `[worldtime places="Rome, New York"]`
+    `[worldtime places="Rome, New York"]`  
 
 
 Please note, the name of the location has to match exactly with a name in the list of our (ever expanding) database, if it is not found you will either default to the GMT/UTC clock or it will return a list of possible matches e.g. London will produce two clocks. See below on how to deal with this situation.
@@ -45,12 +45,12 @@ Please note, the name of the location has to match exactly with a name in the li
 * Use only the beginning of a name to list all places starting with the same characters. (This behaviour can be controlled with the `exact` parameter, see below).
 For instance to create a list of world clocks for Paris, New Delhi, New Orleans, New York, and Newark, you can do this:
 
-    `[worldtime places="Paris, New"]`
+    `[worldtime places="Paris, New"]`  
 
 
 * Or to list all names starting with 'Z'
 
-    `[worldtime places="Z"]`
+    `[worldtime places="Z"]`  
 
 
 Please note currently there are only up to 6 clocks supported in a stack. Also please limit the total number of clocks per page to 6, see below for further details.
@@ -58,13 +58,13 @@ Please note currently there are only up to 6 clocks supported in a stack. Also p
 * Utech World Time estimates the number of returned items and adjusts the height of the list accordingly. 
 If you need to vary the list height, use the parameter lcount, which indicates the number of clocks shown.
 
-    `[worldtime places="London" lcount=2]`
+    `[worldtime places="London" lcount=2]`  
 
 
 * Alternatively you can adjust the height of the list in pixels with the height parameter. 
 If both the lcount and height parameter are used, then Utech World Time will use whichever results in a taller list.
 
-    `[worldtime places="New" height=500]` 
+    `[worldtime places="New" height=500]`  
 
 
 
@@ -89,16 +89,16 @@ location font color e.g. base_color=000
 location font size
 
 `clock_color`
-time background color e.g. base_color=bbb
+time background color
 
 `clock_font_color`
-clock font color e.g. base_color=666
+clock font color
 
 `clock_font_size`
 clock font size
 
 `gap`
-space between individual clocks in a stack
+space (in pixels) between individual clocks in a stack
 
 `width`
 overrides width in pixels
