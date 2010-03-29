@@ -14,7 +14,7 @@ Creates real time customizable world clocks of any location of your choice on yo
 
 Creates real time world clocks on your posts or pages using simple shortcode. The customizable clocks show the name and current time of the location of your choice.
 
-    * The clocks display the current time, even if the user’s computer clock is wrong.
+    * The clocks display the current time, even if the user's computer clock is wrong.
     * Automatic adjustment for Daylight Saving Time
     * All major time zones supported
     * Customizable and easy to use with shortcode
