@@ -14,10 +14,10 @@ Creates real time customizable world clocks of any location of your choice on yo
 
 Creates real time world clocks on your posts or pages using simple shortcode. The customizable clocks show the name and current time of the location of your choice.
 
-    * The clocks display the current time, even if the user's computer clock is wrong.
-    * Automatic adjustment for Daylight Saving Time
-    * All major time zones supported
-    * Customizable and easy to use with shortcode
+* The clocks display the current time, even if the user's computer clock is wrong.
+* Automatic adjustment for Daylight Saving Time
+* All major time zones supported
+* Customizable and easy to use with shortcode
 
 
 **Quick Start**
@@ -118,7 +118,7 @@ manually by uploading the entire plugin folder to the `/wp-content/plugins/` dir
 
 This plugin utilizes services provided by [TimeAndDate.com](http://timeanddate.com) and is made possible with their friendly permission.
 
-TimeAndDate’s condition of use stipulates a **maximum of 6 clocks** per page. In future this limit will be removed however for now it is important to stick to it as each clock creates a connection to their server (and ours). TimeAndDate also requires a separate link to their site if more than two clocks are used.
+TimeAndDate's condition of use stipulates a **maximum of 6 clocks** per page. In future this limit will be removed however for now it is important to stick to it as each clock creates a connection to their server (and ours). TimeAndDate also requires a separate link to their site if more than two clocks are used.
 
 = Any other questions? =
 
@@ -133,7 +133,7 @@ Please visit the [plugin page](http://www.utechworld.com/projects/world-time-for
 == Changelog ==
 
 = 0.1 beta =
-* Initial release
+* Initial release March 29, 2010
 
 == Upgrade Notice ==
 
@@ -145,5 +145,5 @@ Initial release
 
 This plugin utilizes services provided by [TimeAndDate.com](http://timeanddate.com) and is brought to you with their friendly permission.
 
-TimeAndDate’s condition of use stipulates a maximum of 6 clocks per page. In future this limit will be removed however for now it is important to stick to it as each clock creates a connection to their server (and ours). TimeAndDate also requires a separate link to their site if more than two clocks are used.
+TimeAndDate's condition of use stipulates a maximum of 6 clocks per page. In future this limit will be removed however for now it is important to stick to it as each clock creates a connection to their server (and ours). TimeAndDate also requires a separate link to their site if more than two clocks are used.
 
