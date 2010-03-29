@@ -1,5 +1,5 @@
 === Utech World Time ===
-Contributors: Meini, Utech Computer Solutions
+Contributors: Meini - Utech Computer Solutions
 Credits: timeanddate.com
 Tags: world, clock, clocks, time, times, zone, international, daylight, saving, utc, gmt, shortcode
 Requires at least: 2.0.2
@@ -134,11 +134,11 @@ Please visit the [plugin page](http://www.utechworld.com/projects/world-time-for
 
 = 0.1.1 beta =
 March 29, 2010
-* Updated description only, no change to code
+*Updated description only, no change to code
 
 = 0.1 beta =
 March 29, 2010
-* Initial release
+*Initial release
 
 
 == What else you need to know ==
