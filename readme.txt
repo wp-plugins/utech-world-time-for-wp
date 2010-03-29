@@ -25,14 +25,17 @@ Creates real time world clocks on your posts or pages using simple shortcode. Th
 * Put the following shortcode anywhere on your post or page to create a GMT/UTC clock:
 
 	`[worldtime]`
+
 	
 * Use the 'places' parameter to specify the clock's time zone:
 
 	`[worldtime places="Paris"]`
+
 	
 * List several places sperated by a comma. This will create multiple world clocks in a stack (currently maximum 6)
 
 	`[worldtime places="Rome, New York"]`
+
 
 Please note, the name of the location has to match exactly with a name in the list of our (ever expanding) database, if it is not found you will either default to the GMT/UTC clock or it will return a list of possible matches e.g. London will produce two clocks. See below on how to deal with this situation.
 	
@@ -44,9 +47,11 @@ For instance to create a list of world clocks for Paris, New Delhi, New Orleans,
 
 	`[worldtime places="Paris, New"]`
 
+
 * Or to list all names starting with 'Z'
 	
 	`[worldtime places="Z"]` 
+
 
 Please note currently there are only up to 6 clocks supported in a stack. Also please limit the total number of clocks per page to 6, see below for further details.
 
@@ -55,52 +60,54 @@ If you need to vary the list height, use the parameter lcount, which indicates t
 
 	`[worldtime places="London" lcount=2]` 
 
+
 * Alternatively you can adjust the height of the list in pixels with the height parameter. 
 If both the lcount and height parameter are used, then Utech World Time will use whichever results in a taller list.
 
 	`[worldtime places="New" height=500]` 
 
 
+
 **Complete list of parameters of this version**
 
 `places`
--Takes a list of comma seperated towns
+takes a list of comma seperated towns
 
 `lcount`
-- overrides the height of the list (number of clocks)
+overrides the height of the list (number of clocks)
 
 `height`
-- overrides the height of the list (pixels)
+overrides the height of the list (pixels)
 
 `base_color`
-- background color e.g. base_color=fff
+background color e.g. base_color=fff
 
 `base_font_color`
-- location font color e.g. base_color=000
+location font color e.g. base_color=000
 
 `base_font_size`
-- location font size
+location font size
 
 `clock_color`
-- time background color e.g. base_color=bbb
+time background color e.g. base_color=bbb
 
 `clock_font_color`
-- clock font color e.g. base_color=666
+clock font color e.g. base_color=666
 
 `clock_font_size`
-- clock font size
+clock font size
 
 `gap`
-- space between individual clocks in a stack
+space between individual clocks in a stack
 
 `width`
-- overrides width in pixels
+overrides width in pixels
 
 `sec`
-- will hide seconds if set to 0, e.g. sec=0
+will hide seconds if set to 0, e.g. sec=0
 
 `exact`
-- will only find exact matches of places if set to anything other than 0, e.g. exact=1
+will only find exact matches of places if set to anything other than 0, e.g. exact=1
 This is useful for places like for instance London which would otherwise produce 2 clocks: London and London (Canada)
 
 
