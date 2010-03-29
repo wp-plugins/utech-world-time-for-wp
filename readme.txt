@@ -4,7 +4,7 @@ Credits: timeanddate.com
 Tags: world, clock, clocks, time, times, zone, international, daylight, saving, utc, gmt, shortcode
 Requires at least: 2.0.2
 Tested up to: 2.9.2
-Stable tag: 0.1 beta 
+Stable tag: 0.1.1 beta 
 
 
 Creates real time customizable world clocks of any location of your choice on your posts or pages using simple shortcode. 
@@ -23,14 +23,18 @@ Creates real time world clocks on your posts or pages using simple shortcode. Th
 **Quick Start**
 
 * Put the following shortcode anywhere on your post or page to create a GMT/UTC clock:
+
 `[worldtime]`
 
 	
 * Use the 'places' parameter to specify the clock's time zone:
+
 `[worldtime places="Paris"]`
 
 	
 * List several places sperated by a comma. This will create multiple world clocks in a stack (currently maximum 6)
+
+
 `[worldtime places="Rome, New York"]`
 
 
@@ -41,10 +45,12 @@ Please note, the name of the location has to match exactly with a name in the li
 
 * Use only the beginning of a name to list all places starting with the same characters. (This behaviour can be controlled with the `exact` parameter, see below).
 For instance to create a list of world clocks for Paris, New Delhi, New Orleans, New York, and Newark, you can do this:
+
 `[worldtime places="Paris, New"]`
 
 
 * Or to list all names starting with 'Z'
+
 `[worldtime places="Z"]` 
 
 
@@ -52,11 +58,13 @@ Please note currently there are only up to 6 clocks supported in a stack. Also p
 
 * Utech World Time estimates the number of returned items and adjusts the height of the list accordingly. 
 If you need to vary the list height, use the parameter lcount, which indicates the number of clocks shown.
+
 `[worldtime places="London" lcount=2]` 
 
 
 * Alternatively you can adjust the height of the list in pixels with the height parameter. 
 If both the lcount and height parameter are used, then Utech World Time will use whichever results in a taller list.
+
 `[worldtime places="New" height=500]` 
 
 
@@ -132,13 +140,13 @@ Please visit the [plugin page](http://www.utechworld.com/projects/world-time-for
 
 == Changelog ==
 
-= 0.1 beta =
-* Initial release March 29, 2010
+= 0.1.1 beta =
+March 29, 2010
+* Updated description only, no change to code
 
-== Upgrade Notice ==
-
 = 0.1 beta =
-Initial release
+March 29, 2010
+* Initial release
 
 
 == What else you need to know ==
