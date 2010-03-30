@@ -7,12 +7,12 @@ Tested up to: 2.9.2
 Stable tag: 0.1.1 beta 
 
 
-Creates real time customizable world clocks of any location of your choice on your posts or pages using simple shortcode. 
+Creates real time customizable digital world clocks of any location of your choice on your posts or pages using simple shortcode. 
 
 
 == Description ==
 
-Creates real time world clocks on your posts or pages using simple shortcode. The customizable clocks show the name and current time of the location of your choice.
+Creates digital real time world clocks on your posts or pages using simple shortcode. The customizable clocks show the name and current time of the location of your choice.
 
 * The clocks display the current time, even if the user's computer clock is wrong.
 * Automatic adjustment for Daylight Saving Time
