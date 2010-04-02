@@ -37,7 +37,7 @@ Creates digital real time world clocks on your posts or pages using simple short
     `[worldtime places="Rome, New York"]`  
 
 
-Please note, the name of the location has to match exactly with a name in the list of our (ever expanding) database, if it is not found you will either default to the GMT/UTC clock or it will return a list of possible matches e.g. London will produce two clocks. See below on how to deal with this situation.
+Please note, the name of the location has to match exactly with a name in the list of our (ever expanding) database, if it is not found it will either default to the GMT/UTC clock or it will return a list of possible matches e.g. 'places=London' will produce two clocks. See below on how to deal with this situation.
 	
 
 **Advanced**
