@@ -2,7 +2,7 @@
 /*
 Plugin Name: Utech World Time
 Plugin URI: http://www.utechworld.com/projects/world-time-for-wp/
-Description: Create real time world clocks using simple shortcode. E.g. [worldtime places="Brisbane"]. For more details and to rate this plugin please go to the <a href="http://wordpress.org/extend/plugins/utech-world-time-for-wp/">plugin page</a>.
+Description: Create digital real time world clocks using simple shortcode. E.g. [worldtime places="Brisbane"]. For more details and  <a href="http://wordpress.org/extend/plugins/utech-world-time-for-wp/#compatibility">to rate</a> this plugin please go to the <a href="http://wordpress.org/extend/plugins/utech-world-time-for-wp/">plugin page</a>. Enjoy!
 Version:  0.1.1
 Author: Meini
 Author URI: http://www.utechworld.com
