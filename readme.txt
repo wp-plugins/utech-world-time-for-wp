@@ -32,7 +32,7 @@ Creates digital real time world clocks on your posts or pages using simple short
     `[worldtime places="Paris"]`  
 
 	
-* List several places sperated by a comma. This will create multiple world clocks in a stack (currently maximum 6)
+* List several places separated by a comma. This will create multiple world clocks in a stack (currently maximum 6)
 
     `[worldtime places="Rome, New York"]`  
 
@@ -47,7 +47,7 @@ Please note currently there are only up to 6 clocks supported in a stack. Also p
 **Complete list of parameters of this version**
 
 `places`
-takes a list of comma seperated towns
+takes a list of comma separated towns
 
 `base_color`
 background color e.g. base_color=fff 
@@ -104,21 +104,21 @@ Please visit the [plugin page](http://www.utechworld.com/projects/world-time-for
 Please visit the [plugin page](http://www.utechworld.com/projects/world-time-for-wp/) to see the clocks in action.
 
 
-== Changelog ==
+== Change log ==
 
 = 1.0 =
 June 10, 2010
-*Significantly improved page load speed
-*Simplified usage
-*Improved reliability
+* Significantly improved page load speed
+* Simplified usage
+* Improved reliability
 
 = 0.1.1 beta =
 March 29, 2010
-*Updated description only, no change to code
+* Updated description only, no change to code
 
 = 0.1 beta =
 March 29, 2010
-*Initial release
+* Initial release
 
 
 == What else you need to know ==
