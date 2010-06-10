@@ -3,8 +3,8 @@ Contributors: Meini - Utech Computer Solutions
 Credits: timeanddate.com
 Tags: world, clock, clocks, time, times, zone, international, daylight, saving, utc, gmt, shortcode
 Requires at least: 2.0.2
-Tested up to: 2.9.2
-Stable tag: 0.1.1 beta 
+Tested up to: 3.0 RC2
+Stable tag: 1.0
 
 
 Creates real time customizable digital world clocks of any location of your choice on your posts or pages using simple shortcode. 
@@ -138,6 +138,12 @@ Please visit the [plugin page](http://www.utechworld.com/projects/world-time-for
 
 
 == Changelog ==
+
+= 1.0 =
+June 10, 2010
+*Significantly improved page load speed
+*Simplified usage
+*Improved reliability
 
 = 0.1.1 beta =
 March 29, 2010
