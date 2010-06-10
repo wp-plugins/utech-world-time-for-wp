@@ -50,10 +50,12 @@ Please note currently there are only up to 6 clocks supported in a stack. Also p
 takes a list of comma seperated towns
 
 `base_color`
-background color e.g. base_color=fff
+background color e.g. base_color=fff 
+for white
 
 `base_font_color`
 location font color e.g. base_color=000
+for black
 
 `base_font_size`
 location font size
